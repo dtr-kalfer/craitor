@@ -1,0 +1,14 @@
+txt
+php
+html
+md
+json
+js
+css
+py
+java
+c
+cpp
+yaml
+yml
+xml

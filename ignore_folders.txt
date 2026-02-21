@@ -1,0 +1,9 @@
+node_modules
+vendor
+.git
+storage
+cache
+logs
+tmp
+keys
+result_json
