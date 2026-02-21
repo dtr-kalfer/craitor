@@ -7,7 +7,6 @@ js
 css
 py
 java
-c
 cpp
 yaml
 yml

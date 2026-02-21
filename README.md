@@ -50,7 +50,7 @@ Craitor/
 ├── model_list.csv
 ├── extension.txt
 ├── ignore_folder.txt
-└── reports/
+└── result_json/
 ```
 
 ---
@@ -221,17 +221,22 @@ Possible enhancements:
 
 ---
 
-## 🤝 Contributing
+## 🙏 Credits & Inspiration
 
-Pull requests and ideas are welcome.
+This project was inspired by the powerful AI agent workflow made possible through **Picoclaw**.
 
-If you build something interesting with Craitor, feel free to share.
+Charts and data visualization are implemented using **Chart.js**, an open-source JavaScript charting library.
+
+* Picoclaw: https://github.com/sipeed/picoclaw
+* Chart.js: https://www.chartjs.org/
+
+Special thanks to the open-source community for providing amazing tools that make AI projects possible.
 
 ---
 
-## 📜 License
+## 📄 License
 
-MIT License — free to use, modify, and distribute.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -248,3 +253,5 @@ May it help you in your AI journey.
 Give the repository a star — it helps others discover the project.
 
 ---
+Craitor — AI Cost Estimator
+Copyright (c) 2026 Ferdinand Tumulak / License: MIT

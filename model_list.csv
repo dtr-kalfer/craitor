@@ -1,6 +1,6 @@
 model,input_cost_per_million,output_cost_per_million
 GPT-4o,5,15
-GPT-4o Mini,0.15,0.60
+GPT-4o Mini,0.14,0.60
 Claude 3.5 Sonnet,3,15
 DeepSeek Chat,0.27,1.10
 DeepSeek Reasoner,0.55,2.19

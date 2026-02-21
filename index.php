@@ -292,7 +292,8 @@ new Chart(document.getElementById('chart'), {
 <?php } ?>
 
 <div class="footer">
-Craitor — AI Cost Estimator
+Craitor — AI Cost Estimator<br>
+dtr-kalfer 2026 © License: MIT
 </div>
 
 </div>
