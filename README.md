@@ -254,4 +254,5 @@ Give the repository a star — it helps others discover the project.
 
 ---
 Craitor — AI Cost Estimator
+
 Copyright (c) 2026 Ferdinand Tumulak / License: MIT
