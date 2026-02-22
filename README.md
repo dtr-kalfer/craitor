@@ -186,6 +186,8 @@ Craitor produces:
 * Cost visualization chart
 * Downloadable JSON report
 
+![sample output](./readme_assets/output_tokens.avif)
+
 JSON output can be used with:
 
 * Chart.js
