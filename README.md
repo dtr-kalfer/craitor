@@ -250,11 +250,6 @@ May it help you in your AI journey.
 
 ---
 
-## ⭐ If You Find This Useful
-
-Give the repository a star — it helps others discover the project.
-
----
 Craitor — AI Cost Estimator
 
 Copyright (c) 2026 Ferdinand Tumulak / License: MIT
