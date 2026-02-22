@@ -1,0 +1,31 @@
+{
+    "folder": "C:\\wamp64\\www\\cbr_dummy",
+    "input_tokens": 2443,
+    "output_tokens": 3664.5,
+    "models": [
+        {
+            "model": "GPT-4o",
+            "total_cost": 0.06718249999999999
+        },
+        {
+            "model": "GPT-4o Mini",
+            "total_cost": 0.0025651499999999995
+        },
+        {
+            "model": "Claude 3.5 Sonnet",
+            "total_cost": 0.0622965
+        },
+        {
+            "model": "DeepSeek Chat",
+            "total_cost": 0.00469056
+        },
+        {
+            "model": "DeepSeek Reasoner",
+            "total_cost": 0.009368904999999999
+        },
+        {
+            "model": "Gemini 1.5 Pro",
+            "total_cost": 0.04702774999999999
+        }
+    ]
+}
