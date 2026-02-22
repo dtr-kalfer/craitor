@@ -113,7 +113,7 @@ If a path contains any entry, it will be ignored.
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/craitor.git
+git clone https://github.com/dtr-kalfer/craitor.git
 ```
 
 2. Place inside your PHP server directory:
