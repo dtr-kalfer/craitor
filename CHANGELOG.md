@@ -1,5 +1,5 @@
-[1.2.1] - 2026-6-5
-- Added javascript
+[1.4.1] - 2026-6-5
+- Added javascript (Choose directory..), JavaScript can scan the folder right inside the user's browser.
 - improved memory efficiency using $file->getSize() instead.
 - strlen() will overcount, use alternate mb_strlen()
 - bin2hex(random_bytes(8)) or uniqid() to allow multi user input (LAN)

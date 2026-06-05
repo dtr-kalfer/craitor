@@ -5,6 +5,12 @@ It scans folders, estimates token usage, compares multiple AI models, and visual
 
 This tool is designed for developers, AI experimenters, and automation builders who want to understand **approximate AI usage cost before running prompts**.
 
+🛠 The tool gives a rough idea how much the AI bill would cost.
+
+## ⚡ The Client-Side JavaScript Way
+
+Instead of forcing PHP to scan your hard drive, JavaScript can scan the folder right inside the user's browser. This is incredibly fast, keeps your files private (they are never uploaded to a server), and completely bypasses PHP memory or file upload limits. JavaScript handles the file picking, calculates the characters and words, and passes those numbers to your PHP backend to handle the pricing matrix and charts.
+
 Perfect for:
 
 * AI assistants (Picoclaw, agents, automation)
@@ -27,6 +33,7 @@ Perfect for:
 * 📄 JSON export for analytics
 * ⚡ Lightweight — no database required
 * 🛠 Fully configurable without editing PHP code
+* 🛠 App is now portable (Client Side Javascript), it can be used on a server locally or on a public setup.
 
 ---
 
