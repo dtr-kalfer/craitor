@@ -13,7 +13,7 @@ Instead of forcing PHP to scan your hard drive, JavaScript can scan the folder r
 
 Perfect for:
 
-* AI assistants (Picoclaw, agents, automation)
+* AI assistants (Agents, automation)
 * Code refactoring experiments
 * Prompt engineering tests
 * Repository analysis
@@ -112,6 +112,7 @@ vendor
 cache
 logs
 tmp
+.obsidian
 ```
 
 If a path contains any entry, it will be ignored.
