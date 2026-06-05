@@ -51,13 +51,16 @@ This provides a practical estimate typically within **±15–25%** of real token
 
 ## 📁 Project Structure
 
-```
-Craitor/
-├── index.php
-├── model_list.csv
-├── extension.txt
-├── ignore_folder.txt
-└── result_json/
+```txt
+craitor/
+├── 📙 CHANGELOG.md
+├── 📙 LICENSE
+├── 📙 README.md
+├── 📙 extension.txt
+├── 📙 ignore_folders.txt
+├── 📙 index.php
+├── 📙 model_list.csv
+└── 📙 style.css
 ```
 
 ---
@@ -193,7 +196,7 @@ Craitor produces:
 * Cost visualization chart
 * Downloadable JSON report
 
-![sample output](./readme_assets/output_tokens.avif)
+![sample output](./readme_assets/output_tokens2.avif)
 
 JSON output can be used with:
 
