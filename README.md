@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1163003338.svg)](https://doi.org/10.5281/zenodo.20556301)
 # Craitor — AI Token Cost Calculator
 
 Craitor is a lightweight, configurable AI token and cost estimation tool built with PHP.
