@@ -220,13 +220,7 @@ before you spend real money.
 
 Possible enhancements:
 
-* Monthly cost projection
-* Per-file token breakdown
-* Token heatmap visualization
-* ZIP upload analysis
-* Accurate tokenizer integration
-* Multi-folder comparison
-* CLI version
+* Use Real Tokenizers: Instead of dividing characters by 4.
 
 ---
 
