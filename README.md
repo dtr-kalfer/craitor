@@ -3,7 +3,7 @@
 Craitor is a lightweight, configurable AI token and cost estimation tool built with PHP.
 It scans folders, estimates token usage, compares multiple AI models, and visualizes cost projections.
 
-This tool is designed for developers, AI experimenters, and automation builders who want to understand **approximate AI usage cost before running prompts**.
+This tool is designed for developers, AI researchers and automation builders who want to understand **approximate AI usage cost before running prompts**.
 
 🛠 The tool gives a rough idea how much the AI bill would cost.
 
@@ -20,8 +20,9 @@ Perfect for:
 * Dataset ingestion planning
 * Budget estimation
 
----
+*Note: The configuration files (`model_list.csv`, `extension.txt`, `ignore_folder.txt`) pre-populated with a few standard examples (like GPT-4o, Claude 3.5 Sonnet, or Llama 3) so that other users/researchers can run it out of the box.*
 
+---
 ## ✨ Features
 
 * 📂 Folder scanning with recursive file discovery
