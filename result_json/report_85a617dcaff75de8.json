@@ -1,0 +1,31 @@
+{
+    "folder": "C:\\wamp64\\www\\craitor",
+    "input_tokens": 4092.25,
+    "output_tokens": 6138.375,
+    "models": [
+        {
+            "model": "GPT-4o",
+            "total_cost": 0.112536875
+        },
+        {
+            "model": "GPT-4o Mini",
+            "total_cost": 0.0042968625
+        },
+        {
+            "model": "Claude 3.5 Sonnet",
+            "total_cost": 0.104352375
+        },
+        {
+            "model": "DeepSeek Chat",
+            "total_cost": 0.00785712
+        },
+        {
+            "model": "DeepSeek Reasoner",
+            "total_cost": 0.015693778749999998
+        },
+        {
+            "model": "Gemini 1.5 Pro",
+            "total_cost": 0.0787758125
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "folder": "bcc_edu",
+    "input_tokens": 11478618.5,
+    "output_tokens": 17217927.75,
+    "models": [
+        {
+            "model": "GPT-4o",
+            "total_cost": 315.66200875000004
+        },
+        {
+            "model": "GPT-4o Mini",
+            "total_cost": 12.052549424999999
+        },
+        {
+            "model": "Claude 3.5 Sonnet",
+            "total_cost": 292.70477175
+        },
+        {
+            "model": "DeepSeek Chat",
+            "total_cost": 22.03894752
+        },
+        {
+            "model": "DeepSeek Reasoner",
+            "total_cost": 44.02050194750001
+        },
+        {
+            "model": "Gemini 1.5 Pro",
+            "total_cost": 220.963406125
+        }
+    ]
+}

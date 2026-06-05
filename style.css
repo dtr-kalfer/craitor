@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; background: #f4f6f8; margin: 0; color: #333; }
+.container { max-width: 1100px; margin: auto; padding: 20px; }
+.card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 20px; }
+h1 { margin-top: 0; color: #1e293b; }
+input, button { padding: 10px; margin-top: 5px; width: 100%; max-width: 400px; box-sizing: border-box; }
+button { background: #2563eb; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; }
+button:hover { background: #1d4ed8; }
+.file-label { display: inline-block; background: #e2e8f0; padding: 12px; border-radius: 6px; cursor: pointer; font-weight: bold; margin-top: 5px; border: 1px dashed #cbd5e1; }
+.file-label:hover { background: #cbd5e1; }
+table { border-collapse: collapse; width: 100%; margin-top: 15px; }
+th, td { padding: 10px; border-bottom: 1px solid #ddd; text-align: left; }
+th { background: #f1f5f9; }
+.stat { font-size: 14px; margin: 6px 0; }
+.error { color: #dc2626; background: #fee2e2; padding: 10px; border-radius: 6px; margin-bottom: 15px; }
+#statusMessage { font-weight: bold; color: #2563eb; margin-top: 10px; }
+canvas { margin-top: 20px; max-height: 400px; }
+.footer { text-align: center; font-size: 12px; color: #777; margin-top: 30px; }

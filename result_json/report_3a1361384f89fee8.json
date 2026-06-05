@@ -1,0 +1,31 @@
+{
+    "folder": "burauenbiblio-analytics",
+    "input_tokens": 157473.25,
+    "output_tokens": 236209.875,
+    "models": [
+        {
+            "model": "GPT-4o",
+            "total_cost": 4.330514375
+        },
+        {
+            "model": "GPT-4o Mini",
+            "total_cost": 0.1653469125
+        },
+        {
+            "model": "Claude 3.5 Sonnet",
+            "total_cost": 4.015567875
+        },
+        {
+            "model": "DeepSeek Chat",
+            "total_cost": 0.30234864000000006
+        },
+        {
+            "model": "DeepSeek Reasoner",
+            "total_cost": 0.60390991375
+        },
+        {
+            "model": "Gemini 1.5 Pro",
+            "total_cost": 3.0313600625
+        }
+    ]
+}

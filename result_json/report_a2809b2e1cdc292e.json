@@ -1,0 +1,31 @@
+{
+    "folder": "craitor",
+    "input_tokens": 4856.25,
+    "output_tokens": 7284.375,
+    "models": [
+        {
+            "model": "GPT-4o",
+            "total_cost": 0.133546875
+        },
+        {
+            "model": "GPT-4o Mini",
+            "total_cost": 0.005099062499999999
+        },
+        {
+            "model": "Claude 3.5 Sonnet",
+            "total_cost": 0.12383437500000001
+        },
+        {
+            "model": "DeepSeek Chat",
+            "total_cost": 0.009324
+        },
+        {
+            "model": "DeepSeek Reasoner",
+            "total_cost": 0.01862371875
+        },
+        {
+            "model": "Gemini 1.5 Pro",
+            "total_cost": 0.09348281250000001
+        }
+    ]
+}
